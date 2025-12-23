@@ -1,0 +1,11 @@
+=== SYSTEM REPORT ===
+Username: Dmitrij
+Login name: 
+Current directory: /home/Dmitrij/linux_lab
+User ID info:
+uid=1000(Dmitrij) gid=1000(Dmitrij) группы=1000(Dmitrij),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),105(lpadmin),125(sambashare),986(vboxsf)
+Directory listing of projects/scripts/:
+итого 4
+-rw-rw-r-- 1 Dmitrij Dmitrij  0 дек 23 05:02 main.py
+-rw-rw-r-- 2 Dmitrij Dmitrij 64 дек 23 05:07 utils.sh
+Report generated on: Вт 23 дек 2025 05:17:04 +03
